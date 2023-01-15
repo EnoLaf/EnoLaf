@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🎓 Junior Web Developer<br>💻 Working on PAW/PAL<br>📑 Looking for an intership during summer 2023<br>🌱 Learning JavaScript<br>👾 Video Games Lover<br>📚 Books Lover
 
 
