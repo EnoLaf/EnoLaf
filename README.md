@@ -1,5 +1,5 @@
 # ✨ About Me:
-🎓 Junior Web Developer<br>💻 Working on PAW/PAL<br>🎯 Looking for an intership during summer 2023<br>🌱 Learning Vue.js<br>👾 Video Games Lover<br>📚 Books Lover
+🎓 Junior Web Developer<br>💻 Working on PAW/PAL<br>🌱 Learning Vue.js<br>👾 Video Games Lover<br>📚 Books Lover
 
 
 ## 🌐 Socials:
