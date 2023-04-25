@@ -1,5 +1,5 @@
 # ✨ About Me:
-🎓 Junior Web Developer<br>💻 Working on PAW/PAL<br>🌱 Learning Vue.js<br>👾 Video Games Lover<br>📚 Books Lover<br> <a href="[http://loceat.fr/](https://enora-lafforgue.netlify.app/)">Portfolio</a>
+🎓 Junior Web Developer<br>💻 Working on PAW/PAL<br>🌱 Learning Vue.js<br>👾 Video Games Lover<br>📚 Books Lover<br> <a href="[https://enora-lafforgue.netlify.app/]">Portfolio</a>
 
 
 ## 🌐 Socials:
