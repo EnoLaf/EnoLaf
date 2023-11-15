@@ -1,5 +1,5 @@
 # ✨ About Me:
-🎓 Junior Web Developer<br>💻 Working on PAW/PAL<br>🌱 Learning Vue.js<br>👾 Video Games Lover<br>📚 Books Lover<br>🔗 [Porfolio](https://enora-lafforgue.netlify.app/)
+🎓 Junior Web Developer - Apprentice UX/UI Designer<br>💻 Working on PAW/PAL<br>🌱 Learning Vue.js<br>👾 Video Games Lover<br>📚 Books Lover<br>🔗 [Porfolio](https://enora-lafforgue.netlify.app/)
 
 
 ## 🌐 Socials:
